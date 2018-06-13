@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+DevPortfolioViewTool::Renderer.copyright 'Example Name', 'All rights reserved'
+```
 
 ## Development
 
